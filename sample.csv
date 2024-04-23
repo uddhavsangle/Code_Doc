@@ -1,0 +1,7 @@
+,time,disclaimer,chartName,bpi
+updated,"Oct 5, 2023 09:22:00 UTC",This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org,Bitcoin,
+updatedISO,2023-10-05T09:22:00+00:00,This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org,Bitcoin,
+updateduk,"Oct 5, 2023 at 10:22 BST",This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org,Bitcoin,
+USD,,This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org,Bitcoin,"{'code': 'USD', 'symbol': '&#36;', 'rate': '27,690.3232', 'description': 'United States Dollar', 'rate_float': 27690.3232}"
+GBP,,This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org,Bitcoin,"{'code': 'GBP', 'symbol': '&pound;', 'rate': '23,137.8125', 'description': 'British Pound Sterling', 'rate_float': 23137.8125}"
+EUR,,This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org,Bitcoin,"{'code': 'EUR', 'symbol': '&euro;', 'rate': '26,974.4176', 'description': 'Euro', 'rate_float': 26974.4176}"
